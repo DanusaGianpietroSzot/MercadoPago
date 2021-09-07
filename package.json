@@ -1,0 +1,18 @@
+{
+  "name": "node_mercado_pago",
+  "version": "1.0.0",
+  "main": "inde.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mercadopago": "^1.5.8",
+    "nodemon": "^2.0.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
